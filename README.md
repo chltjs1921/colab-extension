@@ -1,2 +1,8 @@
 # colab-extension
 vs code서 colab과 cc extension을 연결해서 사용할 수 있나 테스트
+
+colab서 claude code를 써보고 싶었음. 
+로컬의 vs code를 오작교처럼 사용해서 저 둘을 연동할 수 있는지 테스트해봄
+
+1/11 상황
+- colab extension으로 구동시킨 노트북을 claude code extension으로 읽게 시킴 >> 읽기 성공
