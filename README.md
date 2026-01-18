@@ -6,3 +6,6 @@ colab서 claude code를 써보고 싶었음.
 
 1/11 상황
 - colab extension으로 구동시킨 노트북을 claude code extension으로 읽게 시킴 >> 읽기 성공
+
+1/18 상황
+-파일 업로드, 마운트만 된다면 코랩과 claude code를 연동할 수 있다는 것을 확인. sample data로 간단한 mlp 만들기 성공. 
