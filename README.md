@@ -15,5 +15,5 @@ colab서 claude code를 써보고 싶었음.
 - 다른 일로 대전을 갔다와서 이 날들은 패스
 
 1/29
-- [https://github.com/googlecolab/colab-vscode/wiki/User-Guide]
+- https://github.com/googlecolab/colab-vscode/wiki/User-Guide
 - 이제는 파일 올리기가 되는건가
