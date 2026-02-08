@@ -17,3 +17,8 @@ colab서 claude code를 써보고 싶었음.
 1/29
 - https://github.com/googlecolab/colab-vscode/wiki/User-Guide
 - 이제는 파일 올리기가 되는건가
+
+2/8
+- 마운트 성공. 단, 2가지 문제 존재
+    1. 파일의 경로를 제대로 입력해주어야 함. 옆 사이드에 드라이브 정보가 보이지 않음. 따라서 웹상에서 직접 경로를 추적해야 함
+    2. claude code는 노트북에 코드 입력이 끝. 실행은 온전히 나의 몫. 만일 문제 해결해야 되는 상황이라면 claude code도 직접적인 분석이 힘들 수 있다.
